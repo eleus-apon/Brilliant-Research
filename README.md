@@ -2,4 +2,4 @@
 
 ## Eleus
 
-- [PostgreSQL](#https://github.com/eleus-apon/Learning_PostgreSQL)
+- [PostgreSQL](https://github.com/eleus-apon/Learning_PostgreSQL)
